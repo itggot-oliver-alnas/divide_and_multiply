@@ -1,0 +1,1 @@
+require_relative 'lib/divide_and_multiply'
