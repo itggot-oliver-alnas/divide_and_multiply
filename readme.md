@@ -1,4 +1,4 @@
-# Uppgiftsnamn #
+# Divide and Multiply #
 
 Den här uppgiften går ut på att skriva ett program som följer ett intressant matematiskt mönster.
 
