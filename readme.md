@@ -2,7 +2,7 @@
 
 Den här uppgiften går ut på att skriva ett program som följer ett intressant matematiskt mönster.
 
-Du skall skriva en funktion: `divide_and_multiply` som tar ett positivt heltal (`value:`,) **som argument** och **returnerar** en **lista (`Array`)** innehållandes alla tal som funktionen genererat.
+Du skall skriva en funktion: `divide_and_multiply` som tar ett positivt heltal (`value:`) **som argument** och **returnerar** en **lista (`Array`)** innehållandes alla tal som funktionen genererat.
 
 Funktionen ska följa följande algoritm:
 
