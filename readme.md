@@ -63,7 +63,7 @@ Ett annat sätt är att använda metoderna `#odd?` och `#even?` som finns på `F
     #=> true
 ```
 
-##### Lägga till tal värden i en lista #####
+##### Lägga till värden i en lista #####
 
 För att lägga till tal i en lista kan man använda `#push` eller `#<<` som finns på `Array`.
 
